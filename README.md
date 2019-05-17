@@ -23,9 +23,9 @@ Switch branch to select version and benchmark you want to see.
 ## Benchmarks
 
 You can find Symfony serializer 4.2 benchmarks results on
-[benchmarks results page](http://www.phpbenchmarks.com/en/benchmark/symfony-serializer/4.2).
+[benchmarks results page](http://www.phpbenchmarks.com/en/benchmark/symfony-json-serializer/4.2).
 
-See all Symfony serializer benchmarked versions on [select version page](http://www.phpbenchmarks.com/en/benchmark/symfony-serializer/version).
+See all Symfony serializer benchmarked versions on [select version page](http://www.phpbenchmarks.com/en/benchmark/symfony-json-serializer/version).
 
 ## Community
 

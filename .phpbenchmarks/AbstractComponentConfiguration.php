@@ -18,7 +18,7 @@ abstract class AbstractComponentConfiguration
 
     public static function getComponentSlug(): string
     {
-        return 'symfony-serializer';
+        return 'symfony-json-serializer';
     }
 
     public static function isPhp56Enabled(): bool
@@ -79,7 +79,7 @@ abstract class AbstractComponentConfiguration
     public static function getSourceCodeUrls(): array
     {
         return [
-            'jsonSerialization' => 'http://www.test.com'
+            'jsonSerialization' => 'https://github.com/phpbenchmarks/symfony-serializer-common/blob/4.6.0/src/benchmark.php#L12'
         ];
     }
 }
