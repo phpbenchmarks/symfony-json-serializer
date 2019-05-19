@@ -1,0 +1,8 @@
+{
+    "name": "phpbenchmarks/symfony-json-serializer",
+    "license": "proprietary",
+    "require": {
+        "symfony/serializer": "4.2.8",
+        "phpbenchmarks/symfony-serializer-common": "4.8.0"
+    }
+}
