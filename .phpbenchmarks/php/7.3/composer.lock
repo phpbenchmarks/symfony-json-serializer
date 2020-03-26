@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dbb2d5e2f7ea47f32e6896e55fec92c0",
+    "content-hash": "b0e2a0e4cc0a52926fc13f713bbe5857",
     "packages": [
         {
             "name": "phpbenchmarks/benchmark-json-serialization-small-overload",
@@ -96,16 +96,16 @@
         },
         {
             "name": "symfony/serializer",
-            "version": "v5.0.2",
+            "version": "v5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/serializer.git",
-                "reference": "3cfc478c102f2d3bcf60edd339cd9c3cb446a576"
+                "reference": "a76fc03e125719ef4ce18522b2347bf103b698d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/serializer/zipball/3cfc478c102f2d3bcf60edd339cd9c3cb446a576",
-                "reference": "3cfc478c102f2d3bcf60edd339cd9c3cb446a576",
+                "url": "https://api.github.com/repos/symfony/serializer/zipball/a76fc03e125719ef4ce18522b2347bf103b698d0",
+                "reference": "a76fc03e125719ef4ce18522b2347bf103b698d0",
                 "shasum": ""
             },
             "require": {
@@ -174,7 +174,7 @@
             ],
             "description": "Symfony Serializer Component",
             "homepage": "https://symfony.com",
-            "time": "2019-12-16T11:08:25+00:00"
+            "time": "2020-01-08T17:33:29+00:00"
         }
     ],
     "packages-dev": [],

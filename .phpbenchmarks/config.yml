@@ -6,15 +6,15 @@ benchmark:
 sourceCode:
     entryPoint: public/index.php
     urls:
-        jsonSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        integerSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        floatSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        stringSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        booleanSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        nullSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        arraySerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/public/index.php#L23'
-        objectSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/src/Normalizer/ObjectToSerializeNormalizer.php'
-        customSerializers: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.2_json-serialization-small-overload_0/src/Normalizer'
+        jsonSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        integerSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        floatSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        stringSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        booleanSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        nullSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        arraySerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/public/index.php#L23'
+        objectSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/src/Normalizer/ObjectToSerializeNormalizer.php'
+        customSerializers: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.3_json-serialization-small-overload_0/src/Normalizer'
 coreDependency:
     name: symfony/serializer
-    version: 5.0.2
+    version: 5.0.3
