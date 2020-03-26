@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a4194eab99b9da11f641ba77351b6dee",
+    "content-hash": "34f32efeaff427a29110850f9eab63bb",
     "packages": [
         {
             "name": "phpbenchmarks/benchmark-json-serialization-hello-world",
@@ -96,7 +96,7 @@
         },
         {
             "name": "symfony/serializer",
-            "version": "v5.0.3",
+            "version": "v5.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/serializer.git",
