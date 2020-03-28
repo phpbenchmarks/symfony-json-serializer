@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b4718cabb10ea4a3b3743ed605a87a3c",
+    "content-hash": "fe198b5bedc1712b9061a613a0b59bcc",
     "packages": [
         {
             "name": "phpbenchmarks/benchmark-json-serialization-big-overload",
@@ -110,7 +110,7 @@
         },
         {
             "name": "symfony/serializer",
-            "version": "v5.0.3",
+            "version": "v5.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/serializer.git",
