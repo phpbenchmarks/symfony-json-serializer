@@ -3,12 +3,13 @@
     "license": "proprietary",
     "require": {
         "php": "^7.2",
-        "symfony/serializer": "5.0.5",
-        "phpbenchmarks/benchmark-json-serialization-small-overload": "1.0.0"
+        "symfony/serializer": "5.0.6",
+        "phpbenchmarks/benchmark-json-serialization-small-overload": "1.0.0",
+        "darkghosthunter/preloader": "~2.0.2"
     },
     "autoload": {
         "psr-4": {
-            "PhpBenchmarks\\SymfonyJsonSerializer\\Normalizer\\": "src/"
+            "PhpBenchmarks\\SymfonyJsonSerializer\\": "src/"
         }
     }
 }
