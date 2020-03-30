@@ -9,13 +9,13 @@ use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
 
 class ObjectToSerializeNormalizer implements NormalizerInterface
 {
-    public function supportsNormalization($data, $format = null, array $context = [])
+    public function supportsNormalization($data, string $format = null, array $context = [])
     {
         return $data instanceof ObjectToSerialize;
     }
 
     /** @param ObjectToSerialize $object */
-    public function normalize($object, $format = null, array $context = [])
+    public function normalize($object, string $format = null, array $context = [])
     {
         return [
             'property1' => $object->getProperty1(),
