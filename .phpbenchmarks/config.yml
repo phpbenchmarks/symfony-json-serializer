@@ -1,12 +1,12 @@
 component:
-    id: 16
+    slug: symfony-json-serializer
 benchmark:
-    type: 6
+    type: json-serialization-hello-world
     relativeUrl: /
 sourceCode:
     entryPoint: public/index.php
     urls:
-        jsonSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.5_json-serialization-hello-world_0/public/index.php'
+        jsonSerialization: 'https://github.com/phpbenchmarks/symfony-json-serializer/blob/5.0.6_json-serialization-hello-world_0/public/index.php'
 coreDependency:
     name: symfony/serializer
-    version: 5.0.5
+    version: 5.0.6

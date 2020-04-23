@@ -3,7 +3,7 @@
     "license": "proprietary",
     "require": {
         "php": "^7.2",
-        "symfony/serializer": "5.0.5",
+        "symfony/serializer": "5.0.6",
         "phpbenchmarks/benchmark-json-serialization-hello-world": "1.0.0"
     }
 }
